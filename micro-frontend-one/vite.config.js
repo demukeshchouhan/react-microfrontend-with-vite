@@ -23,8 +23,6 @@ export default defineConfig({
     host: "localhost",
     port: 5173,
     strictPort: true,
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-    },
+    cors: true,
   },
 });
