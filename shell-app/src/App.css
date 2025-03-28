@@ -9,5 +9,9 @@
   padding: 5rem;
 }
 .mt-2 {
-  margin-top: 8px;
+  margin-top: 2.5em;
+}
+.border {
+  border: 2px solid #ccc;
+  padding: 2rem;
 }
